@@ -1,8 +1,8 @@
 # Design_Project1190
 
 
-#Team BM-3
-#team members:
+#Group BM-3
+#Group members:
   MORAWAKA M.D. 200400F (morawakamd.20@uom.lk, 200400F)
   PUSHPAKUMARA H.M.R.M. 200488E (pushpakumarahmrm.20@uom.lk, 200488E)
   RANASINGHA A.S.N. 200507N (ranasinghaasn.20@uom.lk, 200507N)
